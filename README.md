@@ -30,6 +30,7 @@ School attendance system built for a real client: student records, attendance tr
 
 ### More
 - [Portfolio site](https://joseignacio-puma08.github.io) — projects and skills overview
+- [Reactor control-room simulator](https://github.com/JoseIgnacio-Puma08/reactor-control-sim) — Unity/C# real-time plant model with a validated shutdown procedure
 - [Air-quality monitor in C](https://github.com/JoseIgnacio-Puma08/ProyectoProgramacionJosePumagualli) — zone-based pollution analysis against WHO thresholds
 - [Digital wedding invitation](https://github.com/JoseIgnacio-Puma08/boda) — client invitation site on GitHub Pages
 
